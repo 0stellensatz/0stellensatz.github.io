@@ -3,9 +3,9 @@ title: "List of Math Books"
 date: 2022-11-12T05:50:56+09:00
 draft: false
 tags: ["math", "books", "english", "japanese"]
+categories: ["Mathematics"]
 showToc: true
 TocOpen: false
-categories: ["Mathematics"]
 ---
 
 ## Set Theory
