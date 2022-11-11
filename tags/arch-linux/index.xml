@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>korean on 0stellensatz</title>
-    <link>https://nullstellensatz.org/tags/korean/</link>
-    <description>Recent content in korean on 0stellensatz</description>
+    <title>arch linux on 0stellensatz</title>
+    <link>https://nullstellensatz.org/tags/arch-linux/</link>
+    <description>Recent content in arch linux on 0stellensatz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Nov 2022 07:24:46 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/korean/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 07:24:46 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arch Linux Backup</title>
       <link>https://nullstellensatz.org/posts/arch-linux-backup/</link>
@@ -27,17 +27,6 @@ pacman -Qqem &amp;gt; pkglist-foreign-$(date +%F).</description>
       <guid>https://nullstellensatz.org/posts/arch-linux-system-upgrade/</guid>
       <description>ArchWiki 내용의 요약:
 시스템 백업: 우선 시스템을 백업한다. 공지사항 확인: 업그레이드 내용과 관련한 공지사항과 포럼 게시물 등을 확인한다. 알려진 문제점이 있는지 미리 확인한다. 업그레이드: pacman -Syu 혹은 yay -Syu 을 실행한다. 추가 조치: pacman 이 출력한 메시지를 확인하고, 이에 따라 필요한 추가 조치를 취한다. 업데이트 도중 오류가 발생했다면, 우선 /var/log/pacman.log를 확인한다. pacman -Qtd 를 실행하여 &amp;lsquo;orphaned&amp;rsquo; 로 표시된 패키지를 확인할 수 있다. 저장소에 더 이상 존재하지 않는 패키지는 pacman -Qm 을 실행하여 확인할 수 있다.</description>
-    </item>
-    
-    <item>
-      <title>Linux: root 패스워드 초기화</title>
-      <link>https://nullstellensatz.org/posts/root-password-reset/</link>
-      <pubDate>Sat, 12 Nov 2022 06:13:14 +0900</pubDate>
-      
-      <guid>https://nullstellensatz.org/posts/root-password-reset/</guid>
-      <description>우선, 다음 내용을 GRUB의 kernel 라인, 혹은 GRUB2의 linux 라인에 추가한 뒤, 재부팅한다.
-init=/bin/bash 재부팅 후, 파일시스템을 다시 마운트한 뒤, passwd를 이용하여 root 패스워드를 초기화한다.
-mount -o remount,rw / passwd 참고 문헌 Unix StackExchange: Why is resetting the root password allowed? </description>
     </item>
     
   </channel>
