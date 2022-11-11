@@ -59,7 +59,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/0stellensatz/0stellensatz.github.io/blob/main/content"
+    URL: "https://github.com/0stellensatz/0stellensatz.github.io/blame/main/content"
     Text: "Source" # edit text
     appendFilePath: true # to append file path to Edit link
 
