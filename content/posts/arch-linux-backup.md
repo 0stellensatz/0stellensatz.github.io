@@ -1,5 +1,5 @@
 ---
-title: "Arch Linux Backup"
+title: "Arch Linux: 백업"
 date: 2022-11-12T07:24:46+09:00
 draft: false
 tags: ["korean", "arch linux", "linux"]
@@ -18,31 +18,31 @@ TocOpen: false
 
 시스템에 설치된 패키지의 목록을 텍스트 파일로 저장하려면:
 
-```
+```bash
 pacman -Qqe > pkglist-$(date +%F).txt
 ```
 
 주어진 패키지 목록으로부터 저장소에서 동기화 가능한 패키지를 선별하여 설치하려면:
 
-```
+```bash
 pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort pkglist.txt))
 ```
 
 저장소 외부로부터 설치된 패키지의 목록을 텍스트 파일로 저장하려면:
 
-```
+```bash
 pacman -Qqem > pkglist-foreign-$(date +%F).txt
 ```
 
 pacman의 데이터베이스를 백업하려면:
 
-```
+```bash
 tar -cjvf pacman_database-$(date +%F).tar.bz2 /var/lib/pacman/local
 ```
 
 이를 복원하려면, `pacman_database.tar.bz2` 파일을 `/` 으로 옮긴 뒤, 다음을 실행한다.
 
-```
+```bash
 tar -xjvf pacman_database.tar.bz2
 ```
 
@@ -50,13 +50,13 @@ tar -xjvf pacman_database.tar.bz2
 
 미리 지정해 둔 리스트 `/path/to/.rsync-exclusion` 에 포함된 디렉토리를 제외하여, 홈 디렉토리를 현재 디렉토리로 rsync 하려면:
 
-```
+```bash
 rsync -aAHXvh --exclude-from=/path/to/.rsync-exclusion $HOME . --delete-after
 ```
 
 'dry run' 을 원한다면 `-n` 옵션을 추가하면 된다.
 
-```
+```bash
 rsync -aAHXvnh --exclude-from=/path/to/.rsync-exclusion $HOME . --delete-after
 ```
 

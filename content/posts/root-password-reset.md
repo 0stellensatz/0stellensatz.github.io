@@ -10,13 +10,13 @@ TocOpen: false
 
 우선, 다음 내용을 GRUB의 kernel 라인, 혹은 GRUB2의 linux 라인에 추가한 뒤, 재부팅한다.
 
-```
+```bash
 init=/bin/bash
 ```
 
 재부팅 후, 파일시스템을 다시 마운트한 뒤, `passwd`를 이용하여 root 패스워드를 초기화한다.
 
-```
+```bash
 mount -o remount,rw /
 passwd
 ```
