@@ -16,7 +16,7 @@ params:
   title: 0stellensatz
   description: ""
   keywords: [Blog]
-  author: "S.-H. Hyeon"
+  author: "Hilbert"
   # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -37,20 +37,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "0stellensatz"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -73,8 +59,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/0stellensatz.github.io/content"
-    Text: "GitHub" # edit text
+    URL: "https://github.com/0stellensatz/0stellensatz.github.io/blob/main/content"
+    Text: "Source" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
