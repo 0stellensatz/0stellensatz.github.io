@@ -5,22 +5,85 @@
     <link>https://nullstellensatz.org/tags/</link>
     <description>Recent content in Tags on 0stellensatz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Nov 2022 07:24:46 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 07:43:50 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>arch linux</title>
-      <link>https://nullstellensatz.org/tags/arch-linux/</link>
-      <pubDate>Sat, 12 Nov 2022 07:24:46 +0900</pubDate>
+      <title>babel</title>
+      <link>https://nullstellensatz.org/tags/babel/</link>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
       
-      <guid>https://nullstellensatz.org/tags/arch-linux/</guid>
+      <guid>https://nullstellensatz.org/tags/babel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>greek</title>
+      <link>https://nullstellensatz.org/tags/greek/</link>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/greek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>korean</title>
       <link>https://nullstellensatz.org/tags/korean/</link>
-      <pubDate>Sat, 12 Nov 2022 07:24:46 +0900</pubDate>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
       
       <guid>https://nullstellensatz.org/tags/korean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latex</title>
+      <link>https://nullstellensatz.org/tags/latex/</link>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>platex</title>
+      <link>https://nullstellensatz.org/tags/platex/</link>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/platex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>russian</title>
+      <link>https://nullstellensatz.org/tags/russian/</link>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/russian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uplatex</title>
+      <link>https://nullstellensatz.org/tags/uplatex/</link>
+      <pubDate>Sat, 12 Nov 2022 07:43:50 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/uplatex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bibtex</title>
+      <link>https://nullstellensatz.org/tags/bibtex/</link>
+      <pubDate>Sat, 12 Nov 2022 07:40:41 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/bibtex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arch linux</title>
+      <link>https://nullstellensatz.org/tags/arch-linux/</link>
+      <pubDate>Sat, 12 Nov 2022 07:24:46 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/tags/arch-linux/</guid>
       <description></description>
     </item>
     

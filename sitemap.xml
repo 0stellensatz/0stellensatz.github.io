@@ -3,7 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nullstellensatz.org/</loc>
-    <lastmod>2022-11-12T07:24:46+09:00</lastmod>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/babel/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/categories/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/greek/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/korean/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/latex/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/categories/latex/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/posts/latex-foreign-language/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/platex/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/posts/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/russian/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/uplatex/</loc>
+    <lastmod>2022-11-12T07:43:50+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/tags/bibtex/</loc>
+    <lastmod>2022-11-12T07:40:41+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.org/posts/latex-bibliography/</loc>
+    <lastmod>2022-11-12T07:40:41+09:00</lastmod>
   </url><url>
     <loc>https://nullstellensatz.org/tags/arch-linux/</loc>
     <lastmod>2022-11-12T07:24:46+09:00</lastmod>
@@ -11,22 +53,10 @@
     <loc>https://nullstellensatz.org/posts/arch-linux-backup/</loc>
     <lastmod>2022-11-12T07:24:46+09:00</lastmod>
   </url><url>
-    <loc>https://nullstellensatz.org/categories/</loc>
-    <lastmod>2022-11-12T07:24:46+09:00</lastmod>
-  </url><url>
-    <loc>https://nullstellensatz.org/tags/korean/</loc>
-    <lastmod>2022-11-12T07:24:46+09:00</lastmod>
-  </url><url>
     <loc>https://nullstellensatz.org/tags/linux/</loc>
     <lastmod>2022-11-12T07:24:46+09:00</lastmod>
   </url><url>
     <loc>https://nullstellensatz.org/categories/linux/</loc>
-    <lastmod>2022-11-12T07:24:46+09:00</lastmod>
-  </url><url>
-    <loc>https://nullstellensatz.org/posts/</loc>
-    <lastmod>2022-11-12T07:24:46+09:00</lastmod>
-  </url><url>
-    <loc>https://nullstellensatz.org/tags/</loc>
     <lastmod>2022-11-12T07:24:46+09:00</lastmod>
   </url><url>
     <loc>https://nullstellensatz.org/posts/arch-linux-system-upgrade/</loc>
