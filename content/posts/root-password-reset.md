@@ -23,4 +23,4 @@ passwd
 
 ## 참고 문헌
 
-- [Why is resetting the root password allowed?](https://unix.stackexchange.com/questions/355053/why-is-resetting-the-root-password-allowed)
+- [Unix StackExchange: Why is resetting the root password allowed?](https://unix.stackexchange.com/questions/355053/why-is-resetting-the-root-password-allowed)
