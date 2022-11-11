@@ -99,7 +99,7 @@ markup:
     # style: monokai
   goldmark:
     renderer:
-      unsafe: false
+      unsafe: true
 
 outputs:
   home:
