@@ -1,5 +1,5 @@
 ---
-title: "Math Books"
+title: "List of Math Books"
 date: 2022-11-12T05:50:56+09:00
 draft: true
 tags: ["math", "books", "english", "japanese"]
