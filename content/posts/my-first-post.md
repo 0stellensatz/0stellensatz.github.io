@@ -4,7 +4,7 @@ date: 2022-11-11T23:38:36+09:00
 tags: ["linux", "math"]
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 categories: ["Mathematics"]
 ---
 
