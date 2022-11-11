@@ -69,3 +69,7 @@ rsync -aAHXvnh --exclude-from=/path/to/.rsync-exclusion $HOME . --delete-after
 ```
 
 복원할 때에는 위 명령에서 원본과 목적지의 경로를 반대로 하여 실행하면 된다.
+
+## 참고 문헌
+
+- [ArchWiki: System maintenance](https://wiki.archlinux.org/index.php/System_maintenance)
