@@ -3,13 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nullstellensatz.com/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/categories/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/tags/linux/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/tags/math/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/categories/mathematics/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/posts/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/tags/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
+  </url><url>
+    <loc>https://nullstellensatz.com/posts/my-first-post/</loc>
+    <lastmod>2022-11-11T23:38:36+09:00</lastmod>
   </url><url>
     <loc>https://nullstellensatz.com/archives/</loc>
   </url><url>
-    <loc>https://nullstellensatz.com/categories/</loc>
-  </url><url>
     <loc>https://nullstellensatz.com/search/</loc>
-  </url><url>
-    <loc>https://nullstellensatz.com/tags/</loc>
   </url>
 </urlset>

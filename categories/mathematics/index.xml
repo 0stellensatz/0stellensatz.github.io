@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>0stellensatz</title>
-    <link>https://nullstellensatz.com/</link>
-    <description>Recent content on 0stellensatz</description>
+    <title>Mathematics on 0stellensatz</title>
+    <link>https://nullstellensatz.com/categories/mathematics/</link>
+    <description>Recent content in Mathematics on 0stellensatz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Nov 2022 23:38:36 +0900</lastBuildDate><atom:link href="https://nullstellensatz.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Nov 2022 23:38:36 +0900</lastBuildDate><atom:link href="https://nullstellensatz.com/categories/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>테스트용 포스트</title>
       <link>https://nullstellensatz.com/posts/my-first-post/</link>
@@ -15,8 +15,6 @@
       <description>Hello, World!
 Heading 2 Heading 3 Some blockquote.</description>
     </item>
-    
-    
     
   </channel>
 </rss>

@@ -4,6 +4,16 @@
     <title>Categories on 0stellensatz</title>
     <link>https://nullstellensatz.com/categories/</link>
     <description>Recent content in Categories on 0stellensatz</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://nullstellensatz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Nov 2022 23:38:36 +0900</lastBuildDate><atom:link href="https://nullstellensatz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics</title>
+      <link>https://nullstellensatz.com/categories/mathematics/</link>
+      <pubDate>Fri, 11 Nov 2022 23:38:36 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.com/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
