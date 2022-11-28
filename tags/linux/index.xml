@@ -5,7 +5,17 @@
     <link>https://nullstellensatz.org/tags/linux/</link>
     <description>Recent content in linux on 0stellensatz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 01:45:18 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 01:53:24 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux: Windows 듀얼 부팅 시의 주의 사항</title>
+      <link>https://nullstellensatz.org/posts/arch-linux-windows-dual-boot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:53:24 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/posts/arch-linux-windows-dual-boot/</guid>
+      <description>Fast Startup 관련 Linux 와 Windows 를 같은 디스크에 설치하여 듀얼 부팅하는 경우, Windows 8, 10, 11 의 Fast Startup 기능은 EFI 파티션의 손상을 일으켜, 다시 Windows 로 부팅할 수 없거나, Windows 업데이트를 완료할 수 없는 문제를 유발할 수 있다. 특히, Fast Startup 을 비활성화 한 경우에도, Windows 업데이트 후 Fast Startup 이 다시 활성화된 사례가 보고되는 만큼 각별한 주의가 필요하다.
+시계 관련 Windows 와 Linux 양측 모두 localtime 대신 UTC 를 사용하도록 설정한다.</description>
+    </item>
+    
     <item>
       <title>Git: 메인 브랜치 이름 변경하기</title>
       <link>https://nullstellensatz.org/posts/git-master-to-main/</link>
