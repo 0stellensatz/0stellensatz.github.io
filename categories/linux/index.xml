@@ -36,7 +36,7 @@ pacman -Qqem &amp;gt; pkglist-foreign-$(date +%F).</description>
       
       <guid>https://nullstellensatz.org/posts/arch-linux-system-upgrade/</guid>
       <description>ArchWiki 내용의 요약:
-시스템 백업: 우선 시스템을 백업한다. 공지사항 확인: 업그레이드 내용과 관련한 공지사항과 포럼 게시물 등을 확인한다. 알려진 문제점이 있는지 미리 확인한다. 업그레이드: pacman -Syu 혹은 yay -Syu 을 실행한다. 추가 조치: pacman 이 출력한 메시지를 확인하고, 이에 따라 필요한 추가 조치를 취한다. 업데이트 도중 오류가 발생했다면, 우선 /var/log/pacman.log를 확인한다. pacman -Qtd 를 실행하여 &amp;lsquo;orphaned&amp;rsquo; 로 표시된 패키지를 확인할 수 있다. 저장소에 더 이상 존재하지 않는 패키지는 pacman -Qm 을 실행하여 확인할 수 있다.</description>
+시스템 백업: 우선 시스템을 백업한다. 공지사항 확인: 업그레이드 내용과 관련한 공지사항과 포럼 게시물 등을 확인한다. 알려진 문제점이 있는지 미리 확인한다. 업그레이드: pacman -Syu 혹은 yay -Syu 을 실행한다. 추가 조치: pacman 이 출력한 메시지를 확인하고, 이에 따라 필요한 추가 조치를 취한다. 업데이트 도중 오류가 발생했다면, 우선 /var/log/pacman.log를 확인한다. pacman -Qtd 를 실행하여 &#39;orphaned&#39; 로 표시된 패키지를 확인할 수 있다. 저장소에 더 이상 존재하지 않는 패키지는 pacman -Qm 을 실행하여 확인할 수 있다.</description>
     </item>
     
     <item>
