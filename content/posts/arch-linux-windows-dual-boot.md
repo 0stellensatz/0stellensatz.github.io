@@ -26,7 +26,7 @@ Arch Linux 의 경우, `timedatectl` 을 실행한다.
 timedatectl set-local-rtc 0
 ```
 
-## 외부 링크
+## 참고 문헌
 
 - [Turn On or Off Fast Startup in Windows 11](https://www.elevenforum.com/t/turn-on-or-off-fast-startup-in-windows-11.1212/)
 - [Warning When Multi-booting a UEFI System with Windows 10 (Fast Startup): when in doubt, reboot…](https://tedstechshack.com/2017/07/03/warning-multi-booting-uefi-system-windows-10-fast-startup-doubt-reboot/)
