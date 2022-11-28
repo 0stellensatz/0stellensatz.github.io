@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>github on 0stellensatz</title>
+    <link>https://nullstellensatz.org/tags/github/</link>
+    <description>Recent content in github on 0stellensatz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Nov 2022 01:45:18 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git: 메인 브랜치 이름 변경하기</title>
+      <link>https://nullstellensatz.org/posts/git-master-to-main/</link>
+      <pubDate>Tue, 29 Nov 2022 01:45:18 +0900</pubDate>
+      
+      <guid>https://nullstellensatz.org/posts/git-master-to-main/</guid>
+      <description>변경 전 브랜치의 이름을 master, 변경 후 브랜치의 이름을 main 으로 둔다. master 의 커밋을 모두 포함하는 새 브랜치 main 을 먼저 생성한다.
+git branch -m master main main 브랜치를 원격 저장소에 푸시한다.
+git push -u origin main HEAD가 main 브랜치를 향하도록 설정한다.
+git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main 설정을 완료했다면, git branch -a로 HEAD를 확인한다. GitHub 저장소의 경우, 저장소 설정에서 메인 브랜치를 업데이트한다.
+작업을 마친 후에는 원격 저장소에서 master 브랜치를 제거해도 된다.</description>
+    </item>
+    
+  </channel>
+</rss>
