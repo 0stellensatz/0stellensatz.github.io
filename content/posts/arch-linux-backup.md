@@ -12,7 +12,7 @@ TocOpen: false
 
 - pacman 데이터베이스를 백업한다.
 - pacman 패키지 목록을 백업한다.
-- 암호화된 디스크에 rsync를 이용하여 홈 디렉토리를 차분 백업한다.
+- rsync를 이용하여 홈 디렉토리를 차분 백업한다.
 
 ## pacman 데이터베이스, pacman 패키지 목록 백업
 
