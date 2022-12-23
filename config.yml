@@ -45,7 +45,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "📝 Memorandum"
-    Content: "Mostly notes to myself."
+    Content: "Archived notes."
 
   socialIcons:
     - name: instagram
