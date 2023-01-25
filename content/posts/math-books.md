@@ -94,13 +94,16 @@ TocOpen: false
 - 加藤 和也，黒川 信重，斎藤 毅『数論 I』<sub>[Japanese](https://www.iwanami.co.jp/book/b243930.html)</sub>
 - 栗原 将人，黒川 信重，斎藤 毅『数論 II』<sub>[Japanese](https://www.iwanami.co.jp/book/b280279.html)</sub>
 - 斎藤 秀司『整数論』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/book/b10011716.html)</sub>
+- 高木 貞治『代数的整数論 第2版』<sub>[Japanese](https://www.iwanami.co.jp/book/b265433.html)</sub>
+- 高木 貞治『初等整数論講義 第2版』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/book/b10011316.html)</sub>
 - 河田 敬義『代数的整数論』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/book/b10007811.html)</sub>
 - 岩澤 健吉『代数函数論』<sub>[Japanese](https://www.iwanami.co.jp/book/b458089.html)</sub>
 - J.-P. Serre *"Corps Locaux"* <sub>[French](https://www.editions-hermann.fr/livre/corps-locaux-jean-pierre-serre), [English](https://link.springer.com/book/10.1007/978-1-4757-5673-9)</sub>
 - J.-P. Serre *"Cours d'Arithmétique"* <sub>[French](https://www.puf.com/content/Cours_darithm%C3%A9tique), [English](https://link.springer.com/book/10.1007/978-1-4684-9884-4), [Japanese](https://www.iwanami.co.jp/book/b285401.html)</sub>
 - J. Neukirch *"Algebraische Zahlentheorie"* <sub>[German](https://link.springer.com/book/10.1007/978-3-540-37663-7), [English](https://link.springer.com/book/10.1007/978-3-662-03983-0), [Japanese](https://www.maruzen-publishing.co.jp/item/b294301.html)</sub>
 - J. Neukirch, A. Schmidt, K. Wingberg *"Cohomology of Number Fields"* <sub>[English](https://link.springer.com/book/10.1007/978-3-540-37889-1)</sub>
-- N. I. Koblitz *"Introduction to Elliptic Curves and Modular Forms"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-0909-6), [Japanese](https://www.maruzen-publishing.co.jp/item/b294324.html)</sub>
+- N. Koblitz *"Introduction to Elliptic Curves and Modular Forms"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-0909-6), [Japanese](https://www.maruzen-publishing.co.jp/item/b294324.html)</sub>
+- N. Koblitz *"p-adic Numbers, p-adic Analysis, and Zeta-Functions"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-1112-9)</sub>
 - A. Weil *"Basic Number Theory"* <sub>[English](https://link.springer.com/book/10.1007/978-3-642-61945-8)</sub>
 - K. Iwasawa *"Local Class Field Theory"* <sub>[English](https://books.google.com/books/about/Local_Class_Field_Theory.html?id=iJ7vAAAAMAAJ&redir_esc=y)</sub>
 - G. Shimura *"Introduction to the Arithmetic Theory of Automorphic Functions"* <sub>[English](https://press.princeton.edu/books/paperback/9780691080925/introduction-to-arithmetic-theory-of-automorphic-functions)</sub>
