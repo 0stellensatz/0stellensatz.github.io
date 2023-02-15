@@ -65,6 +65,10 @@ TocOpen: false
 - W. Bruns, J. Herzog *"Cohen-Macaulay rings"* <sub>[English](https://www.cambridge.org/core/books/cohenmacaulay-rings/938BC2204D8A7C99E2CEBA1695A692A4)</sub>
 - D. Eisenbud *"Commutative Algebra: with a View Toward Algebraic Geometry"* <sub>[English](https://link.springer.com/book/10.1007%2F978-1-4612-5350-1)</sub>
 
+## Noncommutative Algebra
+
+- T. Y. Lam *"A First Course in Noncommutative Rings"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4419-8616-0)</sub>
+
 ## Homological Algebra
 
 - 志甫 淳『層とホモロジー代数』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/bookdetail/9784320111608)</sub>
@@ -87,7 +91,7 @@ TocOpen: false
 - R. Heartshorne *"Algebraic Geometry"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4757-3849-0), [Japanese](https://www.maruzen-publishing.co.jp/item/b294648.html)</sub>
 - Q. Liu *"Algebraic Geometry and Arithmetic Curves"* <sub>[English](https://www.math.u-bordeaux.fr/~qliu/Book/index.html)</sub>
 
-## Number Theory, Elliptic Curves, ...
+## Number Theory, ...
 
 - 藤崎 源二郎『体とガロア理論』<sub>[Japanese](https://www.iwanami.co.jp/book/b548845.html)</sub>
 - 斎藤 毅『フェルマー予想』<sub>[Japanese](https://www.iwanami.co.jp/book/b440459.html)</sub>
@@ -100,13 +104,17 @@ TocOpen: false
 - 岩澤 健吉『代数函数論』<sub>[Japanese](https://www.iwanami.co.jp/book/b458089.html)</sub>
 - J.-P. Serre *"Corps Locaux"* <sub>[French](https://www.editions-hermann.fr/livre/corps-locaux-jean-pierre-serre), [English](https://link.springer.com/book/10.1007/978-1-4757-5673-9)</sub>
 - J.-P. Serre *"Cours d'Arithmétique"* <sub>[French](https://www.puf.com/content/Cours_darithm%C3%A9tique), [English](https://link.springer.com/book/10.1007/978-1-4684-9884-4), [Japanese](https://www.iwanami.co.jp/book/b285401.html)</sub>
+- S. Lang *"Algebraic Number Theory"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-0853-2)</sub>
 - J. Neukirch *"Algebraische Zahlentheorie"* <sub>[German](https://link.springer.com/book/10.1007/978-3-540-37663-7), [English](https://link.springer.com/book/10.1007/978-3-662-03983-0), [Japanese](https://www.maruzen-publishing.co.jp/item/b294301.html)</sub>
 - J. Neukirch, A. Schmidt, K. Wingberg *"Cohomology of Number Fields"* <sub>[English](https://link.springer.com/book/10.1007/978-3-540-37889-1)</sub>
 - N. Koblitz *"Introduction to Elliptic Curves and Modular Forms"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-0909-6), [Japanese](https://www.maruzen-publishing.co.jp/item/b294324.html)</sub>
 - N. Koblitz *"p-adic Numbers, p-adic Analysis, and Zeta-Functions"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-1112-9)</sub>
+- N. Koblitz *"A Course in Number Theory and Cryptography"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4419-8592-7)</sub>
 - A. Weil *"Basic Number Theory"* <sub>[English](https://link.springer.com/book/10.1007/978-3-642-61945-8)</sub>
 - K. Iwasawa *"Local Class Field Theory"* <sub>[English](https://books.google.com/books/about/Local_Class_Field_Theory.html?id=iJ7vAAAAMAAJ&redir_esc=y)</sub>
 - G. Shimura *"Introduction to the Arithmetic Theory of Automorphic Functions"* <sub>[English](https://press.princeton.edu/books/paperback/9780691080925/introduction-to-arithmetic-theory-of-automorphic-functions)</sub>
 - G. Shimura *"Abelian Varieties with Complex Multiplication and Modular Functions"* <sub>[English](https://press.princeton.edu/books/hardcover/9780691016566/abelian-varieties-with-complex-multiplication-and-modular-functions)</sub>
 - E. Artin *"Algebraic Numbers and Algebraic Functions"* <sub>[English](https://bookstore.ams.org/chel-358-h)</sub>
 - J. H. Silverman *"The Arithmetic of Elliptic Curves"* <sub>[English](https://link.springer.com/book/10.1007/978-0-387-09494-6)</sub>
+- J. S. Milne *"Algebraic Number Theory"* <sub>[English](https://www.jmilne.org/math/CourseNotes/index.html)</sub>
+- J. S. Milne *"Class Field Theory"* <sub>[English](https://www.jmilne.org/math/CourseNotes/index.html)</sub>
