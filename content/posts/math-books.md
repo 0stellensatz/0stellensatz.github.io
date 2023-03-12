@@ -27,7 +27,7 @@ TocOpen: false
 - 桂 利行『代数学 II』<sub>[Japanese](http://www.utp.or.jp/book/b305602.html)</sub>
 - 桂 利行『代数学 III』<sub>[Japanese](http://www.utp.or.jp/book/b302231.html)</sub>
 - 永田 雅宜『可換体論』<sub>[Japanese](https://www.shokabo.co.jp/mybooks/ISBN978-4-7853-1309-8.htm)</sub>
-- S. Lang "Algebra" <sub>[English](https://link.springer.com/book/10.1007/978-1-4613-0041-0)</sub>
+- S. Lang *"Algebra"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4613-0041-0)</sub>
 
 ## Analysis
 
@@ -38,6 +38,7 @@ TocOpen: false
 - 高橋 礼司『新版 複素解析』<sub>[Japanese](http://www.utp.or.jp/book/b302123.html)</sub>
 - 黒田 成俊『関数解析』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/bookdetail/9784320011069)</sub>
 - 伊藤 清三『ルベーグ積分入門』<sub>[Japanese](https://www.shokabo.co.jp/mybooks/ISBN978-4-7853-1318-0.htm)</sub>
+- E. M. Stein, R. Shakarchi *"Complex Analysis"* <sub>[English](https://press.princeton.edu/books/hardcover/9780691113852/complex-analysis), [Japanese](https://www.nippyo.co.jp/shop/book/5054.html)</sub>
 - E. M. Stein, R. Shakarchi *"Fourier Analysis"* <sub>[English](https://press.princeton.edu/books/hardcover/9780691113845/fourier-analysis), [Japanese](https://www.nippyo.co.jp/shop/book/3008.html)</sub>
 
 ## Manifolds
@@ -88,7 +89,7 @@ TocOpen: false
 
 ## Algebraic Geometry
 
-- R. Heartshorne *"Algebraic Geometry"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4757-3849-0), [Japanese](https://www.maruzen-publishing.co.jp/item/b294648.html)</sub>
+- R. Hartshorne *"Algebraic Geometry"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4757-3849-0), [Japanese](https://www.maruzen-publishing.co.jp/item/b294648.html)</sub>
 - Q. Liu *"Algebraic Geometry and Arithmetic Curves"* <sub>[English](https://www.math.u-bordeaux.fr/~qliu/Book/index.html)</sub>
 
 ## Number Theory, ...
