@@ -82,6 +82,12 @@ TocOpen: false
 - T. Leinster *"Basic Category Theory"* <sub>[English](https://arxiv.org/abs/1612.09375), [Japanese](https://www.maruzen-publishing.co.jp/item/b295027.html)</sub>
 - E. Riehl *"Category Theory in Context"* <sub>[English](https://store.doverpublications.com/048680903x.html)</sub>
 
+## Combinatorics
+
+- R. J. Wilson *"Introduction to Graph Theory"* <sub>English</sub>
+- R. Graham, D. Knuth, O. Patashnik *"Concrete Mathematics"* <sub>English</sub>
+- L. Lovász, *"Combinatorial Problems and Exercises"* <sub>[English](https://www.elsevier.com/books/combinatorial-problems-and-exercises/lovasz/978-0-444-81504-0)</sub>
+
 ## Representation Theory
 
 - W. Fulton, J. Harris *"Reperesentation Theory"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4612-0979-9)</sub>
@@ -97,7 +103,7 @@ TocOpen: false
 - 藤崎 源二郎『体とガロア理論』<sub>[Japanese](https://www.iwanami.co.jp/book/b548845.html)</sub>
 - 斎藤 毅『フェルマー予想』<sub>[Japanese](https://www.iwanami.co.jp/book/b440459.html)</sub>
 - 加藤 和也，黒川 信重，斎藤 毅『数論 I』<sub>[Japanese](https://www.iwanami.co.jp/book/b243930.html)</sub>
-- 栗原 将人，黒川 信重，斎藤 毅『数論 II』<sub>[Japanese](https://www.iwanami.co.jp/book/b280279.html)</sub>
+- 黒川 信重，栗原 将人，斎藤 毅『数論 II』<sub>[Japanese](https://www.iwanami.co.jp/book/b280279.html)</sub>
 - 斎藤 秀司『整数論』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/book/b10011716.html)</sub>
 - 高木 貞治『代数的整数論 第2版』<sub>[Japanese](https://www.iwanami.co.jp/book/b265433.html)</sub>
 - 高木 貞治『初等整数論講義 第2版』<sub>[Japanese](https://www.kyoritsu-pub.co.jp/book/b10011316.html)</sub>
