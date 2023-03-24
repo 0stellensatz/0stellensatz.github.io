@@ -125,3 +125,4 @@ TocOpen: false
 - J. H. Silverman *"The Arithmetic of Elliptic Curves"* <sub>[English](https://link.springer.com/book/10.1007/978-0-387-09494-6)</sub>
 - J. S. Milne *"Algebraic Number Theory"* <sub>[English](https://www.jmilne.org/math/CourseNotes/index.html)</sub>
 - J. S. Milne *"Class Field Theory"* <sub>[English](https://www.jmilne.org/math/CourseNotes/index.html)</sub>
+- C. J. Bushnell, G. Henniart *"The Local Langlands Conjecture for GL(2)"* <sub>[English](https://link.springer.com/book/10.1007/3-540-31511-X)</sub>
