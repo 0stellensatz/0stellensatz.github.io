@@ -47,6 +47,13 @@ TocOpen: false
 - 松島 与三『多様体入門』<sub>[Japanese](https://www.shokabo.co.jp/mybooks/ISBN978-4-7853-1317-3.htm)</sub>
 - L. W. Tu *"An Introduction to Manifolds"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4419-7400-6), [Japanese](https://www.shokabo.co.jp/mybooks/ISBN978-4-7853-1586-3.htm)</sub>
 
+## Complex Geometry
+
+- 堀川 穎二『複素代数幾何学入門』<sub>[Japanese](https://www.iwanami.co.jp/book/b265464.html)</sub>
+- 小平 邦彦『複素多様体論』<sub>[Japanese](https://www.iwanami.co.jp/book/b265463.html)</sub>
+- 小林 昭七『複素幾何』<sub>[Japanese](https://www.iwanami.co.jp/book/b265787.html)</sub>
+- S. Donaldson *"Riemann Surfaces"* <sub>[English](https://global.oup.com/academic/product/riemann-surfaces-9780199606740?cc=us&lang=en&)</sub>
+
 ## Topological Groups
 
 - ポントリャーギン『連続群論（上）』<sub>[Japanese](https://www.iwanami.co.jp/book/b279069.html)</sub>
@@ -97,6 +104,7 @@ TocOpen: false
 
 - R. Hartshorne *"Algebraic Geometry"* <sub>[English](https://link.springer.com/book/10.1007/978-1-4757-3849-0), [Japanese](https://www.maruzen-publishing.co.jp/item/b294648.html)</sub>
 - Q. Liu *"Algebraic Geometry and Arithmetic Curves"* <sub>[English](https://www.math.u-bordeaux.fr/~qliu/Book/index.html)</sub>
+- P. Griffiths, J. Harris *"Principles of Algebraic Geometry"* <sub>[English](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118032527)</sub>
 
 ## Number Theory, ...
 
