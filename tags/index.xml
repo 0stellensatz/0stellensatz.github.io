@@ -5,42 +5,6 @@
     <link>https://nullstellensatz.org/tags/</link>
     <description>Recent content in Tags on 0stellensatz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Nov 2022 05:50:56 +0900</lastBuildDate><atom:link href="https://nullstellensatz.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>books</title>
-      <link>https://nullstellensatz.org/tags/books/</link>
-      <pubDate>Sat, 12 Nov 2022 05:50:56 +0900</pubDate>
-      
-      <guid>https://nullstellensatz.org/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>https://nullstellensatz.org/tags/english/</link>
-      <pubDate>Sat, 12 Nov 2022 05:50:56 +0900</pubDate>
-      
-      <guid>https://nullstellensatz.org/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>japanese</title>
-      <link>https://nullstellensatz.org/tags/japanese/</link>
-      <pubDate>Sat, 12 Nov 2022 05:50:56 +0900</pubDate>
-      
-      <guid>https://nullstellensatz.org/tags/japanese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://nullstellensatz.org/tags/math/</link>
-      <pubDate>Sat, 12 Nov 2022 05:50:56 +0900</pubDate>
-      
-      <guid>https://nullstellensatz.org/tags/math/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://nullstellensatz.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
